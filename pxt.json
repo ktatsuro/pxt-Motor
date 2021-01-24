@@ -11,6 +11,7 @@
         "README.md",
         "MotorDriver.ts",
         "_locales/zh/pxt-Motor-strings.json"
+        "_locales/ja/pxt-Motor-strings.json"
     ],
     "testFiles": [
         "test.ts"
